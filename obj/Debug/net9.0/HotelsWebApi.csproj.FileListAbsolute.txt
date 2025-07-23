@@ -125,3 +125,8 @@
 /Users/alex/Desktop/testapp/HotelsWebApi/obj/Debug/net9.0/HotelsWebApi.pdb
 /Users/alex/Desktop/testapp/HotelsWebApi/obj/Debug/net9.0/HotelsWebApi.genruntimeconfig.cache
 /Users/alex/Desktop/testapp/HotelsWebApi/obj/Debug/net9.0/ref/HotelsWebApi.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/obj/Debug/net9.0/HotelsWebApi.MvcApplicationPartsAssemblyInfo.cs
