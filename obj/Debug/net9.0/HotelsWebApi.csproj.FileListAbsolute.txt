@@ -130,3 +130,11 @@
 /Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/alex/Desktop/testapp/HotelsWebApi/obj/Debug/net9.0/HotelsWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/alex/Desktop/testapp/HotelsWebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
