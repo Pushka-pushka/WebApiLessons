@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-using  HotelsWebApi.Model;
+using HotelsWebApi.Model;
 using HotelsWebApi.Domain;
 
 namespace HotelsWebApi.Domain.Repositories
@@ -27,6 +27,13 @@ namespace HotelsWebApi.Domain.Repositories
         public async Task<Hotel> GetHotelAsync(int hotelId) =>
             await _context.Hotels.FindAsync(new object[]{hotelId});
 
+        public async Task <List<Hotel>> GetHotelsAsync(Coordinate coordinate) =>
+           await  _context.Hotels.Where(hotel =>
+                    hotel.Latitude > coordinate.Latitude -1 &&
+                    hotel.Latitude < coordinate.Latitude +1 &&
+                    hotel.Longitude > coordinate.Longitude -1 &&
+                    hotel.Longitude < coordinate.Longitude +1
+                    ).ToListAsync();
         
         
         public async Task InsertHotelAsync(Hotel hotel) => await _context.Hotels.AddAsync(hotel);
