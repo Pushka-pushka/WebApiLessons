@@ -9,3 +9,12 @@ global using Microsoft.IdentityModel.Tokens;
 global using System.IdentityModel.Tokens.Jwt;
 global using System.Security.Claims;
 global using System.Text;
+
+
+
+// local namespace
+global using HotelsWebApi.APIs;
+global using HotelsWebApi.Auth;
+global using HotelsWebApi.Domain;
+global using HotelsWebApi.Domain.Repositories;
+global using HotelsWebApi.Model;
